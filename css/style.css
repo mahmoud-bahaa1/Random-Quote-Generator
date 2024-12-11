@@ -1,0 +1,20 @@
+.fs-8{
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.p-style{
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+  
+}
+.button-style{
+    background-color: blue;
+    width: 280px;
+    height: 80px;
+    
+}
+.button-style:hover{
+    background-color: green;
+}
